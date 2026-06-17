@@ -89,7 +89,7 @@ export default function Home() {
               <p><b>Criminal Face Generation and Recognition</b></p>
             </div>
 
-           {/* DEVELOPER */}
+            {/* DEVELOPER */}
 <div className={styles.cardBox}>
   <div className={styles.cardTitle2}>👨‍💻 Developer</div>
   <p>Anshul Rajpoot</p>
